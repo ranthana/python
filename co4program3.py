@@ -29,5 +29,5 @@ class python(book):
         super().display()
         print(f"price: {self.price}")
         print(f"no of pages: {self.no_pages}")
-book1=python("dc","aadujeevitham","asheer",540,350)
+book1=python("dc","aadujeevitham","basheer",540,350)
 book1.display()
